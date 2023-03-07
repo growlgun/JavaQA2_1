@@ -3,7 +3,6 @@ public class Main {
         int clientCash = 100;
         int addCash = 1100;
         int bonus = addCash / 100;
-        //int finalCash = clientCash + addCash + bonus;
 
 
         if (addCash > 1000) {
